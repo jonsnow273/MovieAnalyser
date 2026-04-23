@@ -1,0 +1,5 @@
+# libraries required
+
+streamlit
+requests
+python-dotenv
