@@ -18,11 +18,6 @@ A cinematic movie & TV show explorer built with **Python**, **Streamlit**, and t
 
 ---
 
-## 📸 Preview
-
-> _Add a screenshot here after deploying_
-
----
 
 ## 🛠️ Tech Stack
 
